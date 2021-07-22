@@ -1,2 +1,1 @@
-<?php include ("home.html");
-<?php include ("trang_bi.html");
+<?php include ("DogPage-Home.html");
