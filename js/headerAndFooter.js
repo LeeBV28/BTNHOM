@@ -5,7 +5,7 @@ function header() {
         "\n" +
         "                    <div class=\"row\">\n" +
         "                        <div class=\"col-md-7 left\">\n" +
-        "                            <h1><a href=\"#\">Pet's Family</a></h1>\n" +
+        "                            <h1><a href=\"DogPage-Home.html\">Pet's Family</a></h1>\n" +
         "                        </div>\n" +
         "                        <div class=\"col-md-5 right\">\n" +
         "                            <ul>\n" +
