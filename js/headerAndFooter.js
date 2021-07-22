@@ -9,10 +9,10 @@ function header() {
         "                        </div>\n" +
         "                        <div class=\"col-md-4 right\">\n" +
         "                            <ul>\n" +
-        "                                <li><a href=\"#\">Giới Thiệu</a></li>\n" +
-        "                                <li><a href=\"#\">Kinh Nghiệm</a></li>\n" +
-        "                                <li><a href=\"tintuc.html\">Tin Tức</a></li>\n" +
-        "                                <li><a href=\"trang_bi.html\">Trang Bị</a></li>\n" +
+        "                                <li><a href=\"#\">Information</a></li>\n" +
+        "                                <li><a href=\"#\">Ex Training</a></li>\n" +
+        "                                <li><a href=\"tintuc.html\">Event News</a></li>\n" +
+        "                                <li><a href=\"trang_bi.html\">Dog Toys</a></li>\n" +
         "                            </ul>\n" +
         "                        </div>\n" +
         "                    </div>\n" +
@@ -30,10 +30,10 @@ function foodter() {
         "                <div class=\"col-md-4\">\n" +
         "                    <h3>Dog's Familly</h3>\n" +
         "                    <ul>\n" +
-        "                        <li><a href=\"#\">Giới Thiệu</a></li>\n" +
-        "                        <li><a href=\"#\">Kinh Nghiệm</a></li>\n" +
-        "                        <li><a href=\"#\">Tin Tức</a></li>\n" +
-        "                        <li><a href=\"\">Trang Bị</a></li>\n" +
+        "                        <li><a href=\"#\">Information</a></li>\n" +
+        "                        <li><a href=\"#\">Ex Training</a></li>\n" +
+        "                        <li><a href=\"#\">Event News</a></li>\n" +
+        "                        <li><a href=\"\">Dog Toys</a></li>\n" +
         "                    </ul>\n" +
         "                </div>\n" +
         "                <div class=\"col-md-4\">\n" +
