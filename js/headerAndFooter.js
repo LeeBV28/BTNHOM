@@ -5,12 +5,12 @@ function header() {
         "\n" +
         "                    <div class=\"row\">\n" +
         "                        <div class=\"col-md-7 left\">\n" +
-        "                            <h1><a href=\"#\">Pet's Family</a></h1>\n" +
+        "                            <h1><a href=\"DogPage-Home.html\">Pet's Family</a></h1>\n" +
         "                        </div>\n" +
         "                        <div class=\"col-md-5 right\">\n" +
         "                            <ul>\n" +
-        "                                <li><a href=\"#\">Information</a></li>\n" +
-        "                                <li><a href=\"#\">Ex Training</a></li>\n" +
+        "                                <li><a href=\"home.html\">Information</a></li>\n" +
+        "                                <li><a href=\"kinh nghiệm.html\">Ex Training</a></li>\n" +
         "                                <li><a href=\"tintuc.html\">Event News</a></li>\n" +
         "                                <li><a href=\"trang_bi.html\">Dog Toys</a></li>\n" +
         "                            </ul>\n" +
