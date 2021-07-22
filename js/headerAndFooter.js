@@ -9,8 +9,8 @@ function header() {
         "                        </div>\n" +
         "                        <div class=\"col-md-5 right\">\n" +
         "                            <ul>\n" +
-        "                                <li><a href=\"#\">Information</a></li>\n" +
-        "                                <li><a href=\"home.html\">Ex Training</a></li>\n" +
+        "                                <li><a href=\"home.html\">Information</a></li>\n" +
+        "                                <li><a href=\"#\">Ex Training</a></li>\n" +
         "                                <li><a href=\"tintuc.html\">Event News</a></li>\n" +
         "                                <li><a href=\"trang_bi.html\">Dog Toys</a></li>\n" +
         "                            </ul>\n" +
