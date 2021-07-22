@@ -4,10 +4,10 @@ function header() {
         "                <div class=\"tab col-md-12\">\n" +
         "\n" +
         "                    <div class=\"row\">\n" +
-        "                        <div class=\"col-md-8 left\">\n" +
+        "                        <div class=\"col-md-7 left\">\n" +
         "                            <h1><a href=\"#\">Pet's Family</a></h1>\n" +
         "                        </div>\n" +
-        "                        <div class=\"col-md-4 right\">\n" +
+        "                        <div class=\"col-md-5 right\">\n" +
         "                            <ul>\n" +
         "                                <li><a href=\"#\">Information</a></li>\n" +
         "                                <li><a href=\"#\">Ex Training</a></li>\n" +
