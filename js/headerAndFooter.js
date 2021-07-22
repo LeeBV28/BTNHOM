@@ -33,7 +33,7 @@ function foodter() {
         "                        <li><a href=\"#\">Giới Thiệu</a></li>\n" +
         "                        <li><a href=\"#\">Kinh Nghiệm</a></li>\n" +
         "                        <li><a href=\"#\">Tin Tức</a></li>\n" +
-        "                        <li><a href=\"\">Trang Bị</a></li>\n" +
+        "                        <li><a href=\"trang_bi.html">Trang Bị</a></li>\n" +
         "                    </ul>\n" +
         "                </div>\n" +
         "                <div class=\"col-md-4\">\n" +
